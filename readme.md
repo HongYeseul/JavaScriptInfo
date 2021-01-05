@@ -4,7 +4,7 @@
 1. 자바스크립트란?
 
 ## 자바스크립트 기본
-1. Hello world!
+1. Hello, JavaScript!
 2. 변수와 상수
 3. 자료형
 4. alert, prompt, confirm을 이용한 상호작용
