@@ -7,7 +7,7 @@
 1. [Hello, JavaScript!](https://github.com/HongYeseul/JavaScriptInfo/blob/master/%EA%B8%B0%EC%B4%88/HelloJavaScript.md)
 2. [변수와 상수](https://github.com/HongYeseul/JavaScriptInfo/blob/master/%EA%B8%B0%EC%B4%88/%EB%B3%80%EC%88%98%EC%99%80%EC%83%81%EC%88%98.md)
 3. [자료형](https://github.com/HongYeseul/JavaScriptInfo/blob/master/%EA%B8%B0%EC%B4%88/%EC%9E%90%EB%A3%8C%ED%98%95.md)
-4. alert, prompt, confirm을 이용한 상호작용
+4. [alert, prompt, confirm을 이용한 상호작용](https://github.com/HongYeseul/JavaScriptInfo/blob/master/%EA%B8%B0%EC%B4%88/%EC%83%81%ED%98%B8%EC%9E%91%EC%9A%A9.md)
 
 
 ## 참고
