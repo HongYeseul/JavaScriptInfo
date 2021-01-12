@@ -10,7 +10,7 @@
 4. [alert, prompt, confirm을 이용한 상호작용](https://github.com/HongYeseul/JavaScriptInfo/blob/master/%EA%B8%B0%EC%B4%88/%EC%83%81%ED%98%B8%EC%9E%91%EC%9A%A9.md)
 5. [연산자 - 기본 연산자](https://github.com/HongYeseul/JavaScriptInfo/blob/master/%EA%B8%B0%EC%B4%88/%EA%B8%B0%EB%B3%B8%EC%97%B0%EC%82%B0%EC%9E%90.md)
 6. [연산자 - 비교 연산자](https://github.com/HongYeseul/JavaScriptInfo/blob/master/%EA%B8%B0%EC%B4%88/%EB%B9%84%EA%B5%90%EC%97%B0%EC%82%B0%EC%9E%90.md)
-7. [연산자 - if와 조건부 연산자](https://github.com/HongYeseul/JavaScriptInfo/blob/master/%EA%B8%B0%EC%B4%88/if%EC%99%80_%EC%A1%B0%EA%B1%B4%EB%B6%80%EC%97%B0%EC%82%B0%EC%9E%90.md)
+7. [연산자 - if와 조건부 연산자, 그리고 논리 연산자](https://github.com/HongYeseul/JavaScriptInfo/blob/master/%EA%B8%B0%EC%B4%88/if%EC%99%80_%EC%A1%B0%EA%B1%B4%EB%B6%80%EC%97%B0%EC%82%B0%EC%9E%90.md)
 
 ## 참고
 ###### 이 페이지의 문서들은 [이곳](https://ko.javascript.info/)을 참고하여 만들어졌습니다. 감사합니다.
