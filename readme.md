@@ -12,7 +12,7 @@
 6. [연산자 - 비교 연산자](https://github.com/HongYeseul/JavaScriptInfo/blob/master/%EA%B8%B0%EC%B4%88/%EB%B9%84%EA%B5%90%EC%97%B0%EC%82%B0%EC%9E%90.md)
 7. [연산자 - if와 조건부 연산자, 그리고 논리 연산자](https://github.com/HongYeseul/JavaScriptInfo/blob/master/%EA%B8%B0%EC%B4%88/if_%EC%A1%B0%EA%B1%B4%EB%B6%80%EC%97%B0%EC%82%B0%EC%9E%90_%EB%85%BC%EB%A6%AC%EC%97%B0%EC%82%B0%EC%9E%90.md)
 8. [while과 for 반복문](https://github.com/HongYeseul/JavaScriptInfo/blob/master/%EA%B8%B0%EC%B4%88/while_for%EB%B0%98%EB%B3%B5%EB%AC%B8.md)
-9. switch문
+9. [switch문](https://github.com/HongYeseul/JavaScriptInfo/blob/master/%EA%B8%B0%EC%B4%88/switch%EB%AC%B8.md)
 
 ## 참고
 ###### 이 페이지의 문서들은 [이곳](https://ko.javascript.info/)을 참고하여 만들어졌습니다. 감사합니다.
