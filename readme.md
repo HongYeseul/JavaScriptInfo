@@ -1,5 +1,8 @@
 # 자바스크립트
 
+## 참고
+###### 이 페이지의 문서들은 [이곳](https://ko.javascript.info/)을 참고하여 만들어졌습니다. 감사합니다.
+
 ## 소개
 1. [자바스크립트란?](https://github.com/HongYeseul/JavaScriptInfo/blob/master/%EC%86%8C%EA%B0%9C/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%9E%80%3F.md)
 
@@ -15,5 +18,6 @@
 9. [switch문](https://github.com/HongYeseul/JavaScriptInfo/blob/master/%EA%B8%B0%EC%B4%88/switch%EB%AC%B8.md)
 10. [함수](https://github.com/HongYeseul/JavaScriptInfo/blob/master/%EA%B8%B0%EC%B4%88/%ED%95%A8%EC%88%98.md)
 
-## 참고
-###### 이 페이지의 문서들은 [이곳](https://ko.javascript.info/)을 참고하여 만들어졌습니다. 감사합니다.
+---
+## 문서
+1. 브라우저 환경과 다양한 명세서
